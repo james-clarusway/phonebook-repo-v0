@@ -3,12 +3,12 @@ entries:
   phonebook-chart:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-04-14T17:16:56.759846286+03:00"
+    created: "2023-04-14T17:19:35.527966788+03:00"
     description: A Helm chart for phonebook application
-    digest: 8afd6bfb9ad9406f7e43d2f357b67cc80960ced7cfcc8324a43958f78fa50e56
+    digest: bf95917abc0ea1b07f603801f7b35d1aeabea78ad7f7b97059b2296dc1d1a86b
     name: phonebook-chart
     type: application
     urls:
     - phonebook-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2023-04-14T17:16:56.758958878+03:00"
+generated: "2023-04-14T17:19:35.527083557+03:00"
