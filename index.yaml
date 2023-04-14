@@ -3,12 +3,12 @@ entries:
   pb-chart:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-04-14T17:03:35.304795074+03:00"
+    created: "2023-04-14T17:14:11.410923673+03:00"
     description: A Helm chart for phonebook application
-    digest: cf2872f455b57223125c5283dde2ea241c8c587167d590960437ec5e33ba6675
+    digest: c99a285a92113e51e805b5f837771abaa385e112371a5b0203a1baba1524da17
     name: pb-chart
     type: application
     urls:
     - pb-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2023-04-14T17:03:35.304423171+03:00"
+generated: "2023-04-14T17:14:11.410080292+03:00"
